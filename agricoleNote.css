@@ -1,0 +1,55 @@
+body{
+	background-color:rgb(1, 163, 1);
+}
+a{
+	
+	color:black;
+	text-decoration:none;
+	
+}
+h1{
+	text-align:center;
+	position:right-side;
+	color:white;
+	padding:20px;
+	margin:30px;
+	border: 3px solid white ;
+	font-size:30px;
+}
+ul{
+	
+	list-style-type:none;
+	margin:80px;
+}
+li{
+	margin-top:0px;
+	margin-left:100px;
+	display:inline-block;
+	border:1px solid white;
+	padding:5px 10px 5px 10px ;
+	font-size:20px
+}
+a:hover{
+	color:white;
+background-color:orange;}
+h1:hover{
+	background-position:150px;
+	background-color:orange;
+	border-bottom:black;
+	color:black;
+}
+p{
+	font-size:20px;
+}
+p:hover{
+	color:white;
+}
+#ro:hover{
+	color:red;
+}
+#iot{
+	color:red;
+	
+}
+	
+	
